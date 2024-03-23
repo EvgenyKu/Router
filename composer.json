@@ -1,0 +1,17 @@
+{
+    "name": "evgev/router",
+    "description": "Тестовый проект написания роутера",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Router\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evgeny",
+            "email": "zhen-kok@yandex.ru"
+        }
+    ],
+    "require": {}
+}
